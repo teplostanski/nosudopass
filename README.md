@@ -52,3 +52,11 @@ sudo sh -c "$(curl -fsSL https://raw.githubusercontent.com/teplostanski/nosudopa
 
 This project was developed with AI coding assistance. 
 All generated code has been reviewed and modified by human developers.
+
+<br>
+
+<div>
+  <a href="https://donate.teplostan.ski" target="_blank">
+    <img src="https://src.teplostan.ski/support-the-project.svg" alt="Support The Project 🖤" />
+  </a>
+</div>
