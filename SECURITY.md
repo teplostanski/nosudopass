@@ -9,7 +9,7 @@ Please keep your dependencies up to date to receive security patches in a timely
 
 ## Reporting a Vulnerability
 
-If you discover a vulnerability, please report it by opening an issue or contacting us at [security-report@teplostan.ski](mailto:security-report@teplostan.ski?subject=Security%20vulnerability%20in%20nosudopass).
+If you discover a vulnerability, please report it by opening an issue or contacting us at [report@teplostanski.me](mailto:report@teplostanski.me?subject=Security%20vulnerability%20in%20nosudopass).
 
 We respond to reports within one week and will keep you informed about the progress of the issue resolution.
 
