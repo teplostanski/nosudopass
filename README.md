@@ -55,8 +55,4 @@ All generated code has been reviewed and modified by human developers.
 
 <br>
 
-<div>
-  <a href="https://donate.teplostanski.me" target="_blank">
-    <img src="https://src.teplostanski.me/support-the-project.svg" alt="Support The Project 🖤" />
-  </a>
-</div>
+[![Donate](https://img.shields.io/static/v1?label=donate&message=teplostanski.me&color=4F46E5)](https://donate.teplostanski.me)
